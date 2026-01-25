@@ -1,0 +1,7 @@
+site_name: Website Redesign Process
+site_url: https://anna.redesign
+theme:
+  name: material
+  palette:
+    primary: deep purple
+    accent: red
