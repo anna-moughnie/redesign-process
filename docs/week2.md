@@ -35,7 +35,7 @@ A product must have these characteristics to ensure user satisfaction.
 2. Useable
 3. Findable
 4. Credible
-5. Desireable
+5. desirable
 6. Accessible
 7. Valuable
 
