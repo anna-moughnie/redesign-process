@@ -44,7 +44,7 @@ The website that my partner and I decided on for the project is the [Toronto Cup
 
 We chose this website for **3 main reasons**.
 
-1. The business that the website is for has 2 distinct audiences.
+1. The business has 2 distinct audiences.
    * Corporations
 
    * People who enjoy cute desserts
@@ -62,7 +62,7 @@ We chose this website for **3 main reasons**.
    * Unexpected hover state functionality
    * Poor spacing between items in footer
 
-   This provides ample opportunities to analyze the site's UI as it relates to the principles of UX/UI design.
+   These issues provides ample opportunities to analyze the site's UI as it relates to the principles of UX/UI design.
 
 ## Why I'm Working in a Team
 

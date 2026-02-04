@@ -43,7 +43,7 @@ A product must have these characteristics to ensure user satisfaction.
 
 ### Websites That Follow and Do Not Follow Usability Factors
 
-To recognize the importance of each of the 7 usability factors, each group was tasked to find a website that follows the a specific usability factor and one that does not. My group was assigned to find a website that is **useable** and one that is **not valuable**.
+To recognize the importance of each of the 7 usability factors, each group found one website that follows the a specific usability factor and one that does not. My group was assigned to find a website that is **useable** and one that is **not valuable**.
 
 Our choice for a website that is usable was [the BCIT website](https://www.bcit.ca/).
 
