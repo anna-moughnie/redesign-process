@@ -1,4 +1,4 @@
-# Week 2B - Beginning the Design Process
+# Week 2 - Beginning the Design Process
 
 The activities and assignments we were given this week involved us beginning to implement the [design processes and concepts](./week2-topics.md) we learned in class.
 
