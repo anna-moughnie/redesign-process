@@ -1,81 +1,47 @@
-# Week 1
+# Week 1 - Choosing a Website to Redesign
 
-## Task
+We began our term project in our UX/UI Design class, which is to learn UX/UI principles and processes by redesigning the UI of a poorly designed website
 
-Choose a website with poorly designed user interfaces to redesign.
-
-## How I Did it  
+## How I Did it
 
 My colleague and I looked through websites that we recently used and analyzed their user experience and the design of their user interfaces. I tried to find websites with established design themes and enough content to work with over a 13-week period. We chose 3 websites to potentially redesign to narrow it down to one choice.
 
-### The two other sites we considered were
+## Choice 1 - The BCIT Program Application Page
 
-#### The BCIT Program Application Page
+![Program application page with out-of-date design and large blocks of text](images/bcitREG.png)
 
-![The BCIT Program Application Page](images/bcitREG.png)
+We considered this site for its unorganized, difficult to read text, which make the website inconvenient to use.
 
-We considered this site for:
+## Choice 2 - Stack Overflow
 
-* lack of effort put into styling
-* difficult to read text
+![homepage with multiple text-heavy sections](images/killedByGPT.png)
 
-#### Stack Overflow
+We considered this site for the overwhelming amount of information displayed at once and the amount of small text, which make for an unpleasant and disorienting user experience.
 
-![Stack Overflow homepage](images/killedByGPT.png)
-
-We considered this site for:
-
-* overwhelming amount of information
-* difficult to read text
-
-## Website For Redesign  
+## Choice 3 - Toronto Cupcake
 
 The website that my partner and I decided on for the project is the [Toronto Cupcake Website](https://www.torontocupcake.com/index.html).
 
-### Screenshots
+![homepage with low-resolution hero image](images/cupcake1.png)
 
-![Screenshot of cupcake website](images/cupcake1.png)
+![website footer with poorly-spaced elements](images/cupcake2.png)
 
-![Screenshot of cupcake website](images/cupcake2.png)
+![cupcake catalogue page with inconsistently-spaced elements](images/cupcake3.png)
 
-![Screenshot of cupcake website](images/cupcake3.png)
+## Why We Chose Toronto Cupcake
 
-## Why I Chose It
+We chose this website for 3 main reasons.
 
-We chose this website for **3 main reasons**.
+1. The business has 2 distinct audiences: corporations and people who enjoy cute desserts
 
-1. The business has 2 distinct audiences.
-   * Corporations
-
-   * People who enjoy cute desserts
-
-    Toronto Cupcake provides custom branded cupcakes for corporate events. The business should have a design that appeals to this demographic as well as the general public. This intersection of demographics will make the design process more streamlined, as we will have a more specific goal in mind for a new design theme.
+   Toronto Cupcake provides custom branded cupcakes for corporate events. The business should have a design that appeals to this demographic as well as the general public. This intersection of demographics will make the design process more streamlined, as we will have a more specific goal in mind for a new design theme.
 
 2. The website has enough content to redesign within 13 weeks.
 
-    It contains 11 static pages with straightforward content such as text, images, or item listings.
+   It contains 11 static pages with straightforward content such as text, images, or item listings.
 
 3. The website has many aspects that need redesigning.
 
-   * Dead space
-   * Large strings of small text
-   * Unexpected hover state functionality
-   * Poor spacing between items in footer
+   The website has an inordinate amount of dead space, making the site appear unprofessional. It often contains large strings of small text, which can make the user feel frustrated or disinterested about what the text has to say. It implements hover state functionality when the user does not expect it, which can be jarring for users. The items in the sites footer are not properly spaced, which adds to the site's issue of appearing unprofessional.
 
-   These issues provides ample opportunities to analyze the site's UI as it relates to the principles of UX/UI design.
-
-## Why I'm Working in a Team
-
-I chose to work with a team because I tend to work faster when I work with others. This is because I tend to complete my contributions earlier, as to be considerate of my teammates' time. Brainstorming phases are also much faster in groups as more ideas are contributed and also verbalized, better establishing them and making them easier to analyze.
-
-## What I Hope to Get From These Classes  
-
-### UX/UI Design
-
-I hope to become familiar enough with the processes of designing UI to comfortably apply them to my future projects. I would like to learn how to minimize and better spot mistakes in my web projects.
-
-### Business Communications
-
-I aim to develop more effective communication skills by regularly practicing the 7 C's of communication.
-
-For both classes, I hope to improve my ability to work in a team.
+These issues provides ample opportunities to analyze the site's UI as it relates to the principles of UX/UI design.
