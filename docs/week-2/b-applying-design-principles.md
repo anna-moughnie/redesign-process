@@ -1,6 +1,6 @@
 # Week 2B - Beginning the Design Process
 
-The activities and assignments we were given this week involved us beginning to implement the [design processes and concepts](./week2-topics.md) we learned in class.
+The activities and assignments we were given this week involved us beginning to implement the [design processes and concepts](./a-design-fundamentals.md) we learned in class.
 
 ## Websites That Follow and Do Not Follow Usability Factors
 
@@ -20,7 +20,7 @@ This website is no longer valuable as Google Maps fulfills its purpose while bei
 
 ## Redesign Proposal
 
-This assignment involved us analyzing the [website for our term project](./week1.md) and the issues with the site to effectively brainstorm solutions that benefit the business.
+This assignment involved us analyzing the [website for our term project](./1-ux-ui-redesign.md) and the issues with the site to effectively brainstorm solutions that benefit the business.
 
 After our analysis, we outlined **3 main issues** with the website.
 
