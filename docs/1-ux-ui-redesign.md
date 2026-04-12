@@ -1,8 +1,8 @@
-# Week 1 - Choosing a Website to Redesign
+# Choosing a Website to Redesign
 
-We began our term project in our UX/UI Design class, which is to learn UX/UI principles and processes by redesigning the UI of a poorly designed website
+This page details the first steps of our term project in our UX/UI Design class, which is to learn UX/UI principles and processes by redesigning the UI of a poorly designed website.
 
-## How I Did it
+## Course of action
 
 My colleague and I looked through websites that we recently used and analyzed their user experience and the design of their user interfaces. I tried to find websites with established design themes and enough content to work with over a 13-week period. We chose 3 websites to potentially redesign to narrow it down to one choice.
 
@@ -28,7 +28,7 @@ The website that my partner and I decided on for the project is the [Toronto Cup
 
 ![cupcake catalogue page with inconsistently-spaced elements](images/cupcake3.png)
 
-## Why We Chose Toronto Cupcake
+## Reason for choosing Toronto Cupcake
 
 We chose this website for 3 main reasons.
 

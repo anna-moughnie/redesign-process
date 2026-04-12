@@ -1,6 +1,6 @@
-# Week 2A - Design Processes and Fundamentals
+# Design Processes and Fundamentals
 
-To create products that people will want to use, designers need to follow specific design processes that produce the most effective solution to a problem. This week, we covered foundational topics regarding general design processes and applied them to web design.
+To create products that people will want to use, designers need to follow specific design processes that produce the most effective solution to a problem. This article discusses the foundational topics we covered regarding general design processes and how we applied them to web design.
 
 ## User-Centered Design
 
@@ -43,4 +43,4 @@ A product must have these characteristics to ensure user satisfaction. I will il
 
 These factors provide me with a criteria to evaluate my solutions in my website redesign by how effectively it allows users to achieve their goals.
 
-We began applying these concepts through the activities covered in the [next page](./b-applying-design-principles.md).
+We began applying these concepts through the activities covered in the [next page](./3-applying-design-principles.md).

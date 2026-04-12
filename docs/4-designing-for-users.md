@@ -1,6 +1,6 @@
 # Week 3 - Relating to Users
 
-Understanding the needs of a user is fundamental to ensuring a product effectively meets their needs. We learned how to relate to users by covering User Personas, User Stories, and User Scenarios, and made each of the three for our [term project](./1-ux-ui-redesign.md).
+Understanding the needs of a user is fundamental to ensuring a product effectively meets their needs. This page covers how we learned how to relate to users by covering User Personas, User Stories, and User Scenarios, and made each of the three for our [term project](./1-ux-ui-redesign.md).
 
 ## User Personas
 
@@ -67,4 +67,4 @@ time organizing my wedding_
 
 For the website to be effective at satisfying its users, it must have easy-to-find information on cupcakes and how to order them.
 
-These artifacts (user personas, user stories, and user scenarios) give designers insight into the features that need to be added and the functionality they need, providing a detailed checklist for features going into the [ideation process](./week4.md).
+These artifacts (user personas, user stories, and user scenarios) give designers insight into the features that need to be added and the functionality they need, providing a detailed checklist for features going into the [ideation process](./5-ux-ui-ideation.md).

@@ -1,6 +1,6 @@
 # Redesign Process
 
-This document details weekly updates regarding my process of redesigning a website for my User Experience/User Interface (UX/UI) Design class. The aim of my writing is to demonstrate my UI design process and approach to managing large tasks.
+This document details weekly updates regarding my process of redesigning a website for my User Experience/User Interface (UX/UI) Design class. Specifically, the goal of the project is to use a designing and prototyping software called Figma to design all necessary web pages that a user needs to achieve two of their goals on the website. The aim of my writing is to demonstrate my UI design process and approach to managing large tasks.
 
 ## Why I'm Working in a Team
 
@@ -12,7 +12,7 @@ I hope to become familiar enough with the processes of designing UI to comfortab
 
 ## What I Hope to Get From Business Communications Class
 
-As this document is my term project for my Communications class, I aim to develop more effective communication skills by regularly practicing the 7 C's of communication throughout the process of writing.
+As this document is my term project for my Communications class, I aim to develop my communication skills by regularly practicing effective communication throughout the process of writing.
 
 For both classes, I hope to improve my ability to work in a team.
 

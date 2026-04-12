@@ -1,6 +1,6 @@
-# Week 2B - Beginning the Design Process
+# Beginning the Design Process
 
-The activities and assignments we were given this week involved us beginning to implement the [design processes and concepts](./a-design-fundamentals.md) we learned in class.
+The activities and assignments we were given this week involved us beginning to implement the [design processes and concepts](./2-design-fundamentals.md) we learned in class.
 
 ## Websites That Follow and Do Not Follow Usability Factors
 
