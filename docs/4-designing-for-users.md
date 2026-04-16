@@ -1,4 +1,4 @@
-# Week 3 - Relating to Users
+# Relating to Users
 
 Understanding the needs of a user is fundamental to ensuring a product effectively meets their needs. This page covers how we learned how to relate to users by covering User Personas, User Stories, and User Scenarios, and made each of the three for our [term project](./1-ux-ui-redesign.md).
 

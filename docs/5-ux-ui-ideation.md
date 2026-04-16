@@ -1,4 +1,4 @@
-# Week 4 - Designing Possible Solutions
+# Designing Possible Solutions
 
 This page details how we began drafting solutions for our [redesign project](./1-ux-ui-redesign.md). We learned about problem statements, created a feature list for our website redesign, discussed and carried out different ideation strategies, and discussed approaches to designing intuitive information architecture (IA).
 
