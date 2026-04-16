@@ -2,13 +2,13 @@
 
 This page covers our most detailed and relevant low-fidelity (low-fi) [wireframes](./glossary.md#wireframe) for each of [our user flows](./6-user-flows.md).
 
-As we have over 10 pages of wireframes, most of which with self-explanatory layouts and functions, only the four most content-rich pages will be shown in this article.
+As we have over 10 pages of wireframes, most of which have self-explanatory layouts and functions, only the four most content-rich pages will be shown in this article.
 
 ## Homepage
 
 ![wireframe of redesigned cupcake website homepage](./images/lowfi-home.png)
 
-This page features a [hero image](./glossary.md#hero-image) to create a strong impression on the user, followed by a section for featured cupcakes and an apparent call-to-action button. Information for events is given at the bottom with a button to a more detailed events page.
+This page features a [hero image](./glossary.md#hero-image) to create a strong impression on the user, followed by a section for featured cupcakes and a clear call-to-action button. Information for events is given at the bottom with a button to a more detailed events page.
 
 The boxes with X's inside represent images, and all irrelevant text is substituted for lines.
 
@@ -22,7 +22,7 @@ This design demonstrates how we intend to manage bulk orders on our redesigned w
 
 ![wireframe of redesigned cupcake page](./images/lowfi-cupcake.png)
 
-In the top right corner, there is a message displaying the amount of cupcakes left in the user's specified order size. The page also contains information of a specific cupcake's allergens.
+In the top right corner, there is a message displaying the amount of cupcakes left in the user's specified order size. The page also contains information about a specific cupcake's allergens.
 
 ## Order Information Page
 

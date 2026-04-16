@@ -15,11 +15,3 @@ I hope to become familiar enough with the processes of designing UI to comfortab
 As this document is my term project for my Communications class, I aim to develop my communication skills by regularly practicing effective communication throughout the process of writing.
 
 For both classes, I hope to improve my ability to work in a team.
-
-## Intended Audience
-
-This document was written for my Communications instructor and for potential employers to learn about my work process.
-
-## Intended Tone
-
-I hope to achieve a conversational tone with clear passion for the project.

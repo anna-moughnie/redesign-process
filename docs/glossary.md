@@ -2,7 +2,7 @@
 
 ## Hero Image
 
-Banner for website that is usually found in the top of its homepage.
+Banner image for website that is usually found at the top of its homepage.
 
 ## User Experience (UX)
 
@@ -10,7 +10,7 @@ A user's interactions with and feelings about a product.
 
 ## User Interface (UI)
 
-Tools provided to a user to interact with a product.
+Tools and visual elements provided to a user to interact with a product.
 
 ## Wireframe
 

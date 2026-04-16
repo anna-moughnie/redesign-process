@@ -8,13 +8,13 @@ To begin redesigning a website, developers must summarize the issues with the si
 
 Our problem statement for [Toronto Cupcake](https://www.torontocupcake.com/index.html) is as follows.
 
-> The issue with Toronto Cupcake’s website is that the website does not succeed at appealing to its main audience and customers: corporate and casual event planners. The poor website structure and design, dated branding, and unintuitive navigation make it difficult to use the website, which may incline customers to opt for a different bakery with a more professional-looking website. The website should be redesigned as soon as possible to start effectively appealing to its intended audiences. The focus on the redesign should be for its corporate customers, because their corporate-specific catering is a niche that could help the business stand out among competitors.
+> The issue with Toronto Cupcake’s website is that the website does not succeed at appealing to its main demographic: corporate and casual event planners. The poor website structure and design, dated branding, and unintuitive navigation make it difficult to use the website, which may incline customers to opt for a different bakery with a more professional-looking website. The website should be redesigned as soon as possible to start effectively appealing to its intended audiences. The focus on the redesign should be for its corporate customers, because their corporate-specific catering is a niche that could help the business stand out among competitors.
 
 From this statement, we gained a clearer understanding of the exact issues of the site, providing a smoother transition into the ideation phases of the redesign.
 
 ## Feature List
 
-With the site's issues summarized in the problem statement, we began analyzing the page for specific changes to be made in the redesign. A notable amount of changes we listed were changes to the information architecture of the site such as improving the navigation menu, removing unnecessary information, and adding dedicated pages to important information such as allergens and delivery. Other changes were cosmetic to make the site appear more professional, such as changing the colour scheme and correcting inconsistent CSS styling.
+With the site's issues summarized in the problem statement, we began analyzing the page for specific changes to be made in the redesign. A notable number of changes we listed were changes to the information architecture of the site such as improving the navigation menu, removing unnecessary information, and adding dedicated pages to important information such as allergens and delivery. Other changes were cosmetic to make the site appear more professional, such as changing the colour scheme and correcting inconsistent CSS styling.
 
 ## Ideation
 
@@ -24,7 +24,7 @@ To begin designing our solutions to the issues the website presents, we discusse
 - Imagining the worst possible idea
 - Crazy 8's
 
-We chose Crazy 8's as our ideation strategy, which involves creating 8 sketches in 8 60-second timeframes for different aspects of the website. This approach did not produce full, cohesive results, but did present interesting ideas that could be expanded upon in full prototypes.
+We chose Crazy 8's as our ideation strategy, which involves creating 8 sketches in eight 60-second intervals for different aspects of the website. This approach did not produce full, cohesive results, but did present interesting ideas that could be expanded upon in full prototypes.
 
 ## Information Architecture (IA)
 

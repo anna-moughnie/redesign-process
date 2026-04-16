@@ -20,7 +20,7 @@ This style guide features a new logo and word mark, readable and professional-lo
 
 ![Toronto Cupcake word mark with serif font and rounded rectangular border](./images/wordmark.png)
 
-Featuring a bold serif font and homage to Toronto's CN tower through the connected T and K, this word mark promotes a sense of professionalism and connection to community, appealing to both casual and corporate residents of Toronto.
+Featuring a bold serif font and an homage to Toronto's CN tower through the connected T and K, this word mark promotes a sense of professionalism and connection to community, appealing to both casual and corporate audiences in Toronto.
 
 ![Logo with letters 'T' and 'C' with star inside the 'C'](./images/torontoCupcake-letterMark-white.png)
 
@@ -28,4 +28,18 @@ Conveying a sense of elegance through its minimalist design, the new letter mark
 
 ## Typography
 
+Headers will use Source Serif 4 - Semi-Bold, a professional-looking font with a slight vintage flair. This font gives the site personality while maintaining an appeal to its corporate audience.
+
+Subheaders will use Source Serif 4 - Italics, an elegant pair to the main headers.
+
+The body text will use Inter, a font that prioritizes readability and makes the site accessible while complementing the other typefaces used.
+
 ## Palette
+
+![Colour palette featuring beige, pink, black, white, green, and brown](./images/palette.png)
+
+These colours were chosen for their unique and professional personality, having an appropriate amount of contrast, and evoking the sensations of desserts. The pink primary colour appeals to the business' general auidence, while not being overly-saturated, which might not appeal to the corporate demographic. The green secondary colour provides an appropriate level of contrast to the pink and reinforces the professional feel. The beige and brown offer more neutral tones that complement the other tones of the palette.
+
+## Conclusion
+
+With the design aspects given a clear direction with the style guide, the creation of the high-fidelity prototypes will become more streamlined and enjoyable.

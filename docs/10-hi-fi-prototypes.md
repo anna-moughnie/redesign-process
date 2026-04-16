@@ -1,10 +1,10 @@
 # Final Prototypes
 
-This page details the process of applying given feedback to finish our redesign for the Toronto Cupcake website through Figma.
+This page details the process of applying the given feedback to finish our redesign for the Toronto Cupcake website through Figma.
 
 ## Second Round of Testing
 
-Having addressed the major issues from our [first round of testing](./9-user-testing.md), our feedback on our high-fidelity prototype was mainly regarding spacing and sizing of page elements. This meant that we were able to quickly apply necessary changes and deliver a final product.
+Having addressed the major issues from our [first round of testing](./9-user-testing.md), the feedback we received on our high-fidelity prototype was mainly regarding spacing and sizing of page elements. This meant that we were able to quickly apply necessary changes and deliver a final product.
 
 ## Highlighted Pages
 
@@ -24,7 +24,7 @@ Regarding the layout, the final prototype for this page is effectively the same 
 
 ![web page prototype with section for box size and catalogue of cupcakes](./images/cupcakePage-hifi.png)
 
-This section is laid out similarly to the paper-based wireframe, with changes made to the headers to address feedback from the [first round of testing](./9-user-testing.md#feedback) and ensure users don't skip the selection of box size.
+This section is laid out similarly to the paper-based wireframe, with changes made to the headers to address feedback from the [first round of testing](./9-user-testing.md#feedback) and ensure users don't skip the selection of a box size.
 
 ### Single Cupcake Page
 

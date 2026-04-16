@@ -1,8 +1,8 @@
 # Choosing a Website to Redesign
 
-This page details the first steps of our term project in our UX/UI Design class, which is to learn UX/UI principles and processes by redesigning the UI of a poorly designed website.
+This page details the first steps of my term project in my UX/UI Design class, which is to learn UX/UI principles and processes by redesigning the UI of a poorly designed website.
 
-## Course of action
+## Course of Action
 
 My colleague and I looked through websites that we recently used and analyzed their user experience and the design of their user interfaces. I tried to find websites with established design themes and enough content to work with over a 13-week period. We chose 3 websites to potentially redesign to narrow it down to one choice.
 
@@ -10,7 +10,7 @@ My colleague and I looked through websites that we recently used and analyzed th
 
 ![Program application page with out-of-date design and large blocks of text](images/bcitREG.png)
 
-We considered this site for its unorganized, difficult to read text, which make the website inconvenient to use.
+We considered this site for its unorganized, difficult to read text, which makes the website inconvenient to use.
 
 ## Choice 2 - Stack Overflow
 
@@ -28,7 +28,7 @@ The website that my partner and I decided on for the project is the [Toronto Cup
 
 ![cupcake catalogue page with inconsistently-spaced elements](images/cupcake3.png)
 
-## Reason for choosing Toronto Cupcake
+## Reason For Choosing Toronto Cupcake
 
 We chose this website for 3 main reasons.
 
@@ -42,6 +42,6 @@ We chose this website for 3 main reasons.
 
 3. The website has many aspects that need redesigning.
 
-   The website has an inordinate amount of dead space, making the site appear unprofessional. It often contains large strings of small text, which can make the user feel frustrated or disinterested about what the text has to say. It implements hover state functionality when the user does not expect it, which can be jarring for users. The items in the sites footer are not properly spaced, which adds to the site's issue of appearing unprofessional.
+   The website has an inordinate amount of dead space, making the site appear unprofessional. It often contains large strings of small text, which can make the user feel frustrated or disinterested about what the text has to say. It implements hover state functionality when the user does not expect it, which can be jarring for users. The items in the site's footer are not properly spaced, which adds to the site's issue of appearing unprofessional.
 
-These issues provides ample opportunities to analyze the site's UI as it relates to the principles of UX/UI design.
+These issues provide ample opportunities to analyze the site's UI as it relates to the principles of UX/UI design.

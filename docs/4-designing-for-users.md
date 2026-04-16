@@ -4,7 +4,7 @@ Understanding the needs of a user is fundamental to ensuring a product effective
 
 ## User Personas
 
-These involve imagining a potential user of our website and characteristics such as their age, goals, things that they struggle with that our product can resolve (pain points), among many other factors that can give us a better understanding of our audience as developers.
+These involve imagining a potential user of our website and defining characteristics such as their age, goals, things that they struggle with that our product can resolve (pain points), among many other factors that can give us a better understanding of our audience as developers.
 
 ### Persona 1: Cheryl Cunningham
 
@@ -57,7 +57,7 @@ can order cupcakes suitable for all my guests and me._
 ### User Scenario 2
 
 _As a wedding planner, I want to easily order cupcakes in bulk, so that I can have an easier
-time organizing my wedding_
+time organizing my wedding._
 
 1. Start at home page
 2. Navigate to order page for information on minimum order size, bulk order specifics, company invoicing, etc.

@@ -2,21 +2,21 @@
 
 The activities and assignments we were given this week involved us beginning to implement the [design processes and concepts](./2-design-fundamentals.md) we learned in class.
 
-## Websites That Follow and Do Not Follow Usability Factors
+## Websites That Demonstrate and Do Not Demonstrate Usability Factors
 
-To recognize the importance of each of the 7 usability factors, each group found one website that follows a specific usability factor and one that does not. My group was assigned to find a website that is **useable** and one that is **not valuable**.
+To recognize the importance of each of the 7 usability factors, each group found one website that follows a specific usability factor and one that does not. My group was assigned to find a website that is **usable** and one that is **not valuable**.
 
 Our choice for a website that is usable was [the BCIT website](https://www.bcit.ca/).
 
 ![homepage with modern design](images/bcitHome.png)
 
-This website is useable as its information structure is very intuitive with very easy-to-read text. Users can navigate the website without many issues.
+This website is usable as its information structure is very intuitive with very easy-to-read text. Users can navigate the website without many issues.
 
 Our choice for a website that is not valuable is [MapQuest](https://www.mapquest.com/).
 
 ![map website with ads](images/killedByGoogle.png)
 
-This website is no longer valuable as Google Maps fulfills its purpose while being ad-free and implementing more useful features.
+This website is no longer valuable as Google Maps fulfills its purpose while having less intrusive advertisements and implementing more useful features.
 
 ## Redesign Proposal
 
@@ -28,7 +28,7 @@ After our analysis, we outlined **3 main issues** with the website.
 - Unappealing formatting of the shop with a difficult to find cart page
 - Inconsistent CSS styling with a theme that does not cater to the audience, giving the website a very unprofessional impression
 
-We aim to resolve these issues by
+We aim to resolve these issues by:
 
 - Polishing CSS styling
 - Adding a tasteful amount of animations for a more professional look
@@ -38,7 +38,7 @@ We aim to resolve these issues by
 
 ## Market Research
 
-To better our understanding of what an effective website in this business would look like, we analyzed two other cupcake shop websites in the Toronto area.
+To better understand what an effective website in this business would look like, we analyzed two other cupcake shop websites in the Toronto area.
 
 ### [Cupcake Paradise](https://www.cupcakeparadise.ca/)
 

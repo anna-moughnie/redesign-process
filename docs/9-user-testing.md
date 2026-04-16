@@ -1,12 +1,12 @@
 # User Testing
 
-This page covers the process of testing [our wireframes](./7-low-fi-prototypes.md) and the changes we planned to make based on our given feedback.
+This page covers the process of testing [our wireframes](./7-low-fi-prototypes.md) and the changes we planned to make based the feedback we received.
 
 ## Testing Process
 
-We asked 3 people unfamiliar with our website to accomplish the goals outlined in [our user stories](./4-designing-for-users.md#user-stories). This would be done by allowing the tester to click through the site by handing them the pages they clicked on links for.
+We asked 3 people unfamiliar with our website to accomplish the goals outlined in [our user stories](./4-designing-for-users.md#user-stories). This was done by allowing the tester to click through the site by handing them the pages that correspond to the links they clicked.
 
-In this process, we refrain from guiding the user, and simply take notes when they make mistakes.
+In this process, we refrained from guiding the user, and simply took notes when they make mistakes.
 
 ## Feedback
 

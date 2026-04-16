@@ -1,6 +1,6 @@
 # User Flows
 
-This section details how we built on [our user stories](./4-designing-for-users.md#user-stories) with user flows. These are flowchart diagrams that outline the actions and decisions necessary for a user to complete specific tasks.
+This section details how we built on [our user stories](./4-designing-for-users.md#user-stories) with user flows. These are flowcharts that outline the actions and decisions necessary for a user to complete specific tasks.
 
 ## User Flow 1
 
@@ -30,7 +30,7 @@ User Story:
 
 ![flowchart diagram of steps to complete third user story](./images/userFlow-3.png)
 
-This final user flow is the longest with steps that might not be intuitive. For example, users might not realize they need to select their order size before selecting their cupcakes, meaning we will need to take care in ensuring this process is clear for users.
+This final user flow is the longest, with steps that might not be intuitive. For example, users might not realize they need to select their order size before selecting their cupcakes, meaning we will need to take care in ensuring this process is clear for users.
 
 ## Conclusion
 

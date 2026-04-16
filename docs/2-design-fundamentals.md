@@ -4,7 +4,7 @@ To create products that people will want to use, designers need to follow specif
 
 ## User-Centered Design
 
-This is a process to design products that fulfill its purpose and maximize user satisfaction.
+This is a process to design products that fulfill their purpose and maximize user satisfaction.
 
 ### Steps of User-Centered Design
 
@@ -31,16 +31,16 @@ I will be using this process to identify issues with the original [Toronto Cupca
 
 ## 7 Usability Factors
 
-A product must have these characteristics to ensure user satisfaction. I will illustrate this by giving the example of how an aluminum water bottle demonstrates these factors.
+A product must have these characteristics to ensure user satisfaction. I will illustrate this by using an aluminum water bottle as an example of how a product can demonstrate these factors.
 
 1. **Useful:** it solves the problem of its users needing to repeatedly get up to get water.
-2. **Useable:** it is very intuitive in its function and easy to use.
+2. **usable:** it is works intuitively and is easy to use.
 3. **Findable:** they can be found in most chain stores.
 4. **Credible:** its professionally-made appearance gives users an impression that they can use it without having issues.
 5. **Desirable:** its design entices users to choose it over a plastic water bottle.
-6. **Accessible:** its intuitive design makes it useable for users with vision impairments.
+6. **Accessible:** its intuitive design makes it usable for users with vision impairments.
 7. **Valuable:** it is the most effective solution to a problem everybody faces.
 
-These factors provide me with a criteria to evaluate my solutions in my website redesign by how effectively it allows users to achieve their goals.
+These factors provide me with criteria to evaluate my solutions in my website redesign by how effectively it allows users to achieve their goals.
 
 We began applying these concepts through the activities covered in the [next page](./3-applying-design-principles.md).
